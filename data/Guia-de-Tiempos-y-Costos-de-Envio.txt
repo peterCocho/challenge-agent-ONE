@@ -1,0 +1,329 @@
+Guía de Tiempos y Costos de Envío de BimBam Buy
+
+1. Propósito
+Esta guía describe los tiempos estimados, costos de envío, modalidades de entrega y
+condiciones operativas de la logística de BimBam Buy para LATAM.
+Su finalidad es ofrecer una referencia clara para el equipo interno y para los agentes de soporte
+que necesiten interpretar tiempos, costos y excepciones de entrega con una misma lógica
+operativa.
+2. Alcance
+Aplica a:
+•  Entregas estándar
+•  Entregas express donde estén habilitadas
+•  Envíos nacionales
+•  Envíos transfronterizos dentro de la cobertura operativa
+•  Recolecciones, reenvíos y devoluciones asociadas a incidencias logísticas
+•  Entregas coordinadas con validación previa de pago o disponibilidad
+3. Principios de envío
+BimBam Buy busca ofrecer entregas confiables, con información visible desde la confirmación
+de compra hasta la recepción final.
+Nuestros principios:
+•  Transparencia en tiempos
+•  Costos comunicados antes del pago
+•  Seguimiento con número de orden
+•  Gestión clara ante demoras
+•  Prioridad en incidencias de alto impacto
+•  Comunicación simple y verificable
+•  Coordinación entre inventario, bodega y última milla
+4. Tipos de envío
+4.1 Envío estándar
+Opción principal para la mayoría de productos.
+4.2 Envío express
+Disponible solo en zonas y categorías habilitadas.
+4.3 Envío programado
+Disponible en operaciones específicas donde el cliente puede seleccionar fecha estimada de
+entrega.
+4.4 Retiro en punto autorizado
+Disponible solo donde BimBam Buy haya habilitado esta modalidad.
+4.5 Reenvío por incidencia
+Se utiliza cuando un pedido debe volver a salir por error de dirección, falta de entrega o
+validación operativa.
+4.6 Recolección de devolución
+Aplica en casos aprobados por postventa, garantía o incidencia atribuible a BimBam Buy.
+5. Tiempos estimados
+Los tiempos de entrega dependen de:
+•  País
+•  Ciudad
+•  Zona de cobertura
+•  Tamaño y peso del producto
+•  Inventario local o regional
+•  Validaciones de pago
+•  Eventos operativos o climáticos
+5.1 Preparación del pedido
+•  Validación de pago: 0 a 1 día hábil
+•  Alistamiento y empaque: 1 a 2 días hábiles
+•  Despacho al operador logístico: 1 día hábil adicional
+5.2 Entrega estimada
+•  Zonas urbanas principales: 2 a 5 días hábiles
+•  Zonas secundarias: 4 a 8 días hábiles
+•  Zonas de cobertura extendida: 6 a 12 días hábiles
+5.3 Casos con variación
+En campañas especiales, lanzamientos, alta demanda o validaciones adicionales, los tiempos
+pueden ser superiores a los estimados, siempre con comunicación al cliente cuando la
+información esté disponible.
+6. Costos de envío
+El costo se calcula según:
+•  Destino
+•  Peso volumétrico
+•  Tamaño del paquete
+•  Servicio elegido
+•  Promociones vigentes
+•  Umbral de envío gratis, cuando aplique
+El costo final debe mostrarse antes de confirmar la compra, salvo situaciones de corrección
+posterior debidamente justificadas.
+7. Envío gratis
+BimBam Buy puede ofrecer envío gratis bajo condiciones promocionales o por montos
+mínimos de compra definidos por país y campaña.
+Cuando exista envío gratis:
+•  Se mostrará antes del pago
+•  Podrá aplicarse solo a categorías o regiones determinadas
+•  No necesariamente cubre reenvíos por causas atribuibles al cliente
+•  Puede tener límites de vigencia o de stock
+•  No reemplaza otras condiciones logísticas, como cobertura o restricciones de reparto
+8. Costos por tipo de incidencia
+8.1 Error atribuible a BimBam Buy
+Si el error de entrega, producto o dirección es atribuible a BimBam Buy, el costo de corrección
+será asumido por la empresa.
+8.2 Error atribuible al cliente
+Si el cliente proporciona una dirección incompleta, errónea o no recibe en la ventana acordada
+por su causa, la reexpedición puede generar un costo adicional.
+8.3 Devolución por retracto
+La devolución puede tener costo logístico si así lo permiten las condiciones de compra y la
+regulación local.
+8.4 Incidencias mixtas
+Cuando la causa no sea totalmente atribuible a una sola parte, el área operativa podrá revisar
+el caso con el historial de movimientos y definir la aplicación de costos de forma proporcional.
+9. Cobertura geográfica
+BimBam Buy opera en distintos países de LATAM con cobertura variable según ciudad y
+categoría de producto.
+La cobertura puede incluir:
+•  Capitales y áreas metropolitanas
+•  Ciudades principales
+•  Zonas suburbanas habilitadas
+•  Algunas zonas extendidas con tiempos mayores
+La disponibilidad de cobertura depende también de:
+•  Integración con operadores locales
+•  Capacidad de última milla
+•  Restricciones de acceso
+•  Condiciones de seguridad
+•  Categoría del producto y su manipulación requerida
+10. Restricciones operativas
+Los tiempos pueden extenderse por:
+•  Alta demanda estacional
+•  Días festivos
+•  Fenómenos climáticos
+•  Controles aduaneros
+•  Validaciones de pago pendientes
+•  Cambios de inventario
+•  Problemas en última milla
+•  Reprocesos de etiquetado o clasificación
+•  Incidencias de transporte intermedio
+11. Seguimiento de pedidos
+El cliente puede revisar el estado del pedido con:
+•  Número de orden
+•  Correo registrado
+•  Enlace de seguimiento, cuando corresponda
+Estados comunes:
+•  Orden recibida
+•  Pago confirmado
+•  En preparación
+•  Despachado
+•  En tránsito
+•  En reparto
+•  Entregado
+•  Incidencia detectada
+11.1 Lectura de estados
+Cada estado indica un paso operativo específico. Si el pedido permanece en un mismo estado
+más tiempo del esperado, soporte debe revisar si el movimiento fue actualizado por el
+operador o si existe una incidencia real.
+12. Incidencias logísticas
+12.1 Demora en tránsito
+Si el pedido supera el tiempo estimado, soporte revisará el número de seguimiento y el estado
+del operador.
+12.2 Dirección incorrecta
+Si la dirección impide la entrega, el pedido puede quedar en espera, retorno o reenvío según el
+caso.
+12.3 Paquete extraviado
+Se inicia investigación con el operador logístico y se ofrece resolución según evidencia.
+12.4 Paquete dañado
+Se solicita evidencia fotográfica y se evalúa junto con la Política de Reembolsos y
+Devoluciones.
+12.5 Entrega fallida repetida
+Si no se concreta la entrega tras reintentos válidos, el pedido puede regresar a bodega para
+evaluación de nueva salida o cancelación según causa.
+13. Coordinación con devoluciones
+Los pedidos devueltos al centro operativo por dirección incompleta, imposibilidad de entrega o
+rechazo del cliente se gestionan en conjunto con el área de postventa. Si corresponde, se
+ofrecerá reembolso, reenvío o ajuste de costo.
+También puede analizarse si el retorno del paquete corresponde a:
+•  Retracto
+•  Error de dirección
+•  Rechazo por parte del cliente
+•  Incidencia atribuible al operador
+•  Incidencia atribuible a BimBam Buy
+14. Coordinación con garantía
+Cuando un producto llega con daño visible, el cliente deberá registrar el caso dentro de 48
+horas. Si el daño parece de fábrica y no de transporte, se evaluará junto al Manual de Garantía
+de Productos de BimBam Buy.
+La revisión puede incluir:
+•  Estado del embalaje
+•  Ubicación del daño
+•  Condición del producto al abrir
+•  Evidencia del primer uso
+•  Trazabilidad del trayecto
+15. Factores de costo por categoría
+Algunas categorías pueden requerir embalaje especial, mayor protección o manejo
+diferenciado. En esos casos el costo puede variar por:
+•  Fragilidad
+•  Volumen
+•  Peso
+•  Requisitos de seguridad
+•  Manejo especial en bodega o reparto
+•  Necesidad de documentación adicional
+16. Validación previa al despacho
+Antes del despacho, BimBam Buy verifica:
+•  Confirmación de pago
+•  Datos de destino
+•  Disponibilidad del producto
+•  Compatibilidad del servicio elegido
+•  Restricciones de entrega por categoría
+La validación previa evita reprocesos, errores de ruta y costos innecesarios.
+17. Entregas fallidas
+Si el operador no logra entregar el paquete, puede ocurrir una de estas opciones:
+•  Segundo intento
+•  Reprogramación
+•  Retorno a bodega
+•  Cancelación con costos asociados, según causa
+La decisión depende de:
+•  Registro del intento
+•  Motivo del fallo
+•  Vigencia de la dirección
+•  Disponibilidad de reenvío
+•  Condiciones de cobertura local
+18. Envíos a zonas extendidas
+En zonas extendidas, el cliente debe considerar:
+•  Mayor tiempo de tránsito
+•  Menor frecuencia de reparto
+•  Posibles restricciones por clima o acceso
+•  Trazabilidad menos frecuente en ruta
+•  Posibilidad de consolidación de entregas
+19. Ejemplos operativos
+Ejemplo 1
+Un cliente compra en ciudad principal y el pedido se entrega en 3 días hábiles. Aplica envío
+estándar sin incidencia.
+Ejemplo 2
+Un cliente ingresa dirección incompleta y el paquete retorna. El reenvío puede tener costo
+adicional.
+Ejemplo 3
+Un pedido llega con caja golpeada y producto dañado. El caso se gestiona como incidencia
+logística y puede derivar en reembolso, cambio o garantía.
+Ejemplo 4
+Un pedido asignado a zona extendida tarda más por condiciones de acceso. Se comunica el
+plazo ampliado y se mantiene seguimiento activo.
+20. Comunicación con el cliente
+Toda comunicación sobre envíos debe incluir:
+•  Estado actual
+•  Tiempo estimado
+•  Próximo paso
+•  Si existe incidencia
+•  Si el caso requiere acción del cliente
+La comunicación debe ser clara, breve y verificable, evitando promesas que no estén
+respaldadas por el estado real del pedido.
+21. Preparación avanzada del pedido
+Antes de entrar a despacho, algunos pedidos requieren validaciones adicionales como:
+•  Verificación de identidad
+•  Confirmación de datos fiscales
+•  Validación de inventario regional
+•  Revisión de restricciones de transporte
+•  Compatibilidad con embalaje especial
+Esto puede afectar el tiempo de salida, sin que necesariamente implique un problema en la orden.
+22. Ventanas de entrega y reintentos
+En ciertas ciudades o servicios, el operador puede trabajar con ventanas estimadas de
+entrega. Si el cliente no se encuentra disponible, puede activarse un reintento o una
+reprogramación.
+En estos casos, el cliente debe considerar:
+•  Horario declarado de entrega
+•  Necesidad de recepción por tercero autorizado
+•  Reglas del operador para reintentos
+•  Posibles costos por nueva salida
+23. Gestión de incidencias por operador
+Cuando la incidencia depende del transportista, BimBam Buy puede abrir revisión con el
+operador para:
+•  Confirmar estado de tránsito
+•  Verificar intento de entrega
+•  Revisar ruta
+•  Determinar pérdida, daño o retraso
+•  Definir el siguiente paso operativo
+24. Recomendaciones para soporte logístico
+•  Revisar primero el número de orden y el tracking
+•  Verificar si el pedido está en ruta, retenido o retornado
+•  Consultar la causa operativa antes de prometer una solución
+•  Relacionar el caso con devoluciones, garantía o pagos cuando corresponda
+•  Mantener informado al cliente con tiempos realistas
+25. Cierre operativo
+La logística de BimBam Buy se gestiona con criterio práctico, trazabilidad y una comunicación
+simple. Si el pedido avanza sin incidencias, el cliente recibe información clara hasta la entrega.
+Si surge una excepción, el caso se coordina con postventa para ofrecer la mejor salida posible
+dentro de las reglas operativas de la marca.
+26. Notas de coordinación con otros documentos
+Esta guía debe utilizarse junto con:
+•  La Política de Reembolsos y Devoluciones de BimBam Buy, para devoluciones por retraso,
+extravío o daño
+•  El Manual de Garantía de Productos de BimBam Buy, para diferenciar daño en tránsito de
+falla de fabricación
+•  Las Preguntas Frecuentes sobre Métodos de Pago de BimBam Buy, cuando una demora
+logística esté condicionada por validación financiera
+27. Escenarios logísticos frecuentes
+27.1 Pedido en “en preparación” por más de lo normal
+Revisar inventario, validación de pago y prioridad de despacho.
+27.2 Pedido en tránsito sin actualización
+Verificar con operador si hay retraso en escaneo o consolidación.
+27.3 Pedido entregado pero cliente no lo recibe
+Corroborar dirección, recepción por tercero y evidencia del operador.
+27.4 Pedido retornado a bodega
+Determinar si corresponde reenvío, reprogramación o cierre con postventa.
+27.5 Pedido dañado durante última milla
+Solicitar evidencia e iniciar coordinación con devoluciones o garantía, según corresponda.
+28. Métricas operativas de seguimiento
+El equipo puede revisar de forma interna:
+•  Tiempo promedio de preparación
+•  Tiempo promedio de tránsito
+•  Tasa de entregas fallidas
+•  Tasa de reenvíos
+• Tasa de incidencias por operador
+• Frecuencia de reclamos por zona
+29. Criterios de excepción
+Se pueden considerar excepciones cuando exista:
+• Evento climático severo
+• Contingencia de acceso
+• Cambio masivo de inventario
+• Problema del operador de última milla
+• Riesgo de seguridad en una ruta
+30. Preguntas frecuentes internas
+¿Se puede comunicar un plazo exacto sin validarlo?
+No. Debe usarse siempre el plazo estimado o validado.
+¿Se puede prometer entrega el mismo día?
+Solo si el servicio y la cobertura lo permiten.
+¿Qué hacer si el tracking no avanza?
+Escalar con operador antes de dar por perdida la orden.
+¿Se puede ofrecer compensación logística sin autorización?
+Solo si el protocolo del país o del área lo permite.
+¿Cómo diferenciar demora de extravío?
+Con el historial del tracking, el tiempo sin movimiento y la respuesta del operador.
+31. Registro y trazabilidad
+Cada incidencia debe quedar documentada con:
+• Número de orden
+• Estado logístico
+• Fecha del evento
+• Operador involucrado
+• Acción tomada
+• Resultado final
+32. Recomendaciones de comunicación
+• Usar lenguaje simple y concreto
+• No culpar al cliente sin evidencia
+• Explicar el siguiente paso
+• Evitar tecnicismos innecesarios
+• Mantener consistencia entre canales
+
+
+

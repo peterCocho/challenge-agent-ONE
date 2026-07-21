@@ -1,0 +1,278 @@
+Manual de Garantía de Productos de BimBam Buy
+
+1. Propósito
+Este manual define cómo se gestionan las garantías de productos vendidos por BimBam Buy
+en LATAM, incluyendo criterios de cobertura, exclusiones, pasos de revisión y soluciones
+posibles.
+2. Alcance
+Aplica a productos comprados en canales oficiales y cuya falla se presente dentro del período
+de garantía correspondiente.
+3. Objetivo operativo
+Garantizar que los reclamos por falla real de producto reciban una evaluación justa, trazable y
+consistente, coordinada con:
+•  Postventa
+•  Logística
+•  Devoluciones
+•  Pagos
+•  Atención al cliente
+4. Definiciones
+4.1 Garantía
+Compromiso de BimBam Buy de revisar y resolver fallas atribuibles al producto en condiciones
+normales de uso.
+4.2 Falla cubierta
+Defecto de fabricación, materiales o ensamblaje no causado por el cliente.
+4.3 Uso normal
+Uso compatible con las instrucciones, capacidades y destino del producto.
+4.4 Uso indebido
+Manipulación, instalación, carga, almacenamiento o uso fuera de especificación.
+5. Plazos de garantía
+El plazo de garantía puede variar según el tipo de producto, categoría y país. El plazo aplicable
+será el informado en la ficha del producto o en la confirmación de compra.
+Si existe diferencia entre documentos, prevalece la información específica del producto y la
+normativa local aplicable.
+6. Cobertura general
+La garantía puede cubrir:
+•  Falla de encendido
+•  Mal funcionamiento de componentes
+•  Defectos de ensamblaje
+•  Problemas de fabricación
+•  Inconsistencias técnicas no originadas por el cliente
+También puede considerar fallas intermitentes, comportamiento anómalo y defectos visibles al
+primer uso, siempre que la evidencia y la revisión técnica lo respalden.
+7. Exclusiones
+La garantía no cubre:
+•  Daño por golpes o caídas
+•  Humedad, agua, calor excesivo o fuego
+•  Manipulación por terceros no autorizados
+•  Reparaciones externas
+•  Accesorios consumibles desgastados por uso natural
+•  Instalación incorrecta
+•  Incompatibilidad de uso fuera de especificación
+•  Desgaste normal
+Además, no cubre:
+•  Alteración de seriales
+•  Sellos manipulados
+•  Uso de accesorios no recomendados que provoquen daño
+•  Fallas originadas por mantenimiento inadecuado
+•  Daños estéticos que no afecten el funcionamiento, salvo que la normativa local disponga
+otra cosa
+8. Tipos de resolución
+8.1 Reparación
+Cuando la falla puede corregirse sin reemplazo.
+8.2 Reemplazo
+Cuando el producto debe ser sustituido por otro igual o equivalente.
+8.3 Reembolso
+Cuando la reparación o el reemplazo no sean posibles según disponibilidad, cobertura o
+normativa local.
+8.4 Rechazo fundamentado
+Cuando la falla no esté cubierta por garantía.
+9. Procedimiento de evaluación
+Paso 1. Apertura del caso
+El cliente envía el reclamo por un canal oficial.
+Paso 2. Validación documental
+Se verifica:
+•  Orden de compra
+•  Fecha de entrega
+•  Evidencia de la falla
+•  Número de serie, si aplica
+•  Descripción del uso
+Paso 3. Diagnóstico inicial
+El equipo determina si el caso:
+•  Puede resolverse de inmediato
+•  Requiere revisión técnica
+•  Corresponde a devolución
+•  Corresponde a rechazo
+Paso 4. Resolución
+Se comunica el resultado y se coordinan los pasos siguientes.
+Paso 5. Seguimiento
+Cuando corresponda, se informa al cliente el avance de la revisión o el despacho de la solución
+aprobada.
+10. Evidencia requerida
+Según el producto, pueden solicitarse:
+•  Video de la falla
+•  Fotografía del daño
+•  Prueba de encendido o uso
+•  Foto de serial o etiqueta
+•  Descripción del entorno de uso
+La evidencia debe permitir comprender:
+•  Qué ocurrió
+•  Cuándo ocurrió
+•  En qué condición se encontraba el producto
+•  Si hubo factores externos visibles
+11. Coordinación con devoluciones
+Si la garantía requiere retorno físico del producto, la logística se gestionará conforme a la
+Política de Reembolsos y Devoluciones de BimBam Buy.
+12. Productos reemplazados
+Si se aprueba un reemplazo:
+•  El nuevo producto conservará la cobertura que aplique por norma local o por política interna
+•  El equipo informará si la garantía se mantiene desde la compra original o desde la entrega
+del reemplazo, según corresponda
+Cuando el reemplazo no sea exacto, se procurará que sea equivalente en función, categoría y
+disponibilidad.
+13. Garantía y daños en tránsito
+Si el producto llegó dañado, el caso debe reportarse dentro de las 48 horas de la recepción. En
+esos casos puede aplicarse devolución, cambio o reemplazo sin necesidad de agotar
+diagnóstico técnico, siempre que la evidencia sea suficiente.
+La distinción entre daño en tránsito y falla de fábrica se hará revisando:
+•  Estado del embalaje
+•  Tipo de daño
+•  Momento de detección
+•  Evidencia fotográfica o en video
+•  Información de transporte
+14. Garantía y retracto
+Si el cliente desea devolver un producto sin que exista falla, el caso se tramita bajo la Política
+de Reembolsos y Devoluciones, no bajo garantía.
+15. Diagnósticos típicos
+Caso A
+El producto no enciende desde el primer uso. Se solicita video, serial y evidencia de empaque.
+Puede corresponder a falla cubierta.
+Caso B
+Un producto se cae y deja de funcionar. Se evalúa como daño accidental, normalmente fuera
+de garantía.
+Caso C
+Un equipo presenta falla intermitente tras uso normal. Se analiza si hay defecto de fabricación
+o problema de manipulación.
+Caso D
+El producto presenta un funcionamiento irregular después de una instalación inadecuada. Se
+revisa si la causa excluye cobertura.
+16. Tiempos de respuesta
+•  Confirmación de recepción: 24 horas hábiles
+•  Revisión inicial: 1 a 3 días hábiles
+•  Diagnóstico técnico: según categoría y complejidad
+•  Resolución final: después de la validación completa
+Estos plazos pueden variar si el producto requiere traslado, prueba especializada o confirmación
+con un proveedor externo.
+17. Responsabilidad del cliente
+El cliente debe:
+•  Conservar comprobante de compra
+•  Seguir instrucciones de uso
+•  Reportar la falla en tiempo razonable
+•  Entregar evidencia clara
+•  No manipular el producto antes de la revisión, salvo indicación de soporte
+También debe:
+•  Mantener el producto en condiciones razonables hasta la inspección
+•  Evitar reparaciones no autorizadas
+•  Responder con información precisa cuando soporte lo solicite
+18. Responsabilidad de BimBam Buy
+BimBam Buy se compromete a:
+•  Revisar cada caso con criterio uniforme
+•  Responder con claridad
+•  Coordinar logística cuando corresponda
+•  Informar si la solución es reparación, cambio o reembolso
+19. Ejemplos de resolución
+Ejemplo 1
+Producto con defecto de fábrica reportado dentro del período de garantía. Se aprueba
+reemplazo.
+Ejemplo 2
+Producto con falla causada por líquido derramado. Se rechaza por exclusión.
+Ejemplo 3
+Producto con falla repetitiva y sin reparación posible. Se aprueba reembolso o reemplazo,
+según disponibilidad.
+Ejemplo 4
+Producto con serial alterado y señales de reparación externa. Se rechaza
+fundamentadamente.
+20. Cierre y documentación
+Todo caso resuelto debe quedar documentado con:
+•  Motivo
+•  Evidencia
+•  Resultado
+•  Acción ejecutada
+•  Fecha de cierre
+21. Criterios de diagnóstico avanzado
+En algunos productos puede requerirse verificación adicional de:
+•  Componentes internos
+•  Comportamiento bajo carga
+•  Compatibilidad con accesorios
+•  Ciclos de uso
+•  Condiciones de energía o conectividad
+22. Gestión de revisiones técnicas
+Si el producto requiere revisión técnica, BimBam Buy puede:
+•  Solicitar retorno físico
+•  Coordinar con taller autorizado
+•  Pedir pruebas adicionales
+•  Emitir un diagnóstico interno
+•  Resolver con reemplazo o reembolso según el resultado
+23. Reglas de sustitución y equivalencia
+Cuando no exista stock del mismo producto, el reemplazo equivalente deberá mantener, en la
+medida de lo posible:
+•  Misma categoría
+•  Función similar
+•  Nivel de uso comparable
+•  Valor de referencia coherente
+24. Seguimiento postresolución
+Una vez resuelto el caso, el cliente puede recibir seguimiento sobre:
+•  Envío del reemplazo
+•  Estado del reembolso
+•  Confirmación de cierre
+•  Requerimientos adicionales de entrega o recepción
+25. Consideraciones por país
+La garantía puede variar según:
+•  Normativa local
+•  Categoría del producto
+•  Condiciones del proveedor
+•  Disponibilidad de reparación o recambio
+•  Reglas de consumo aplicables
+26. Notas de coordinación con otros documentos
+Este manual debe revisarse con:
+•  La Política de Reembolsos y Devoluciones de BimBam Buy, para definir si la resolución final
+será devolución, cambio o reembolso
+•  La Guía de Tiempos y Costos de Envío de BimBam Buy, para retornos, recolecciones y
+daños en tránsito
+•  Las Preguntas Frecuentes sobre Métodos de Pago de BimBam Buy, si el caso termina en
+reembolso monetario
+27. Señales de no cobertura
+Algunas señales comunes de exclusión son:
+•  Golpes evidentes
+•  Intervención de terceros
+•  Uso fuera de instrucciones
+•  Accesorios incompatibles
+•  Modificaciones físicas
+•  Exposición a líquidos o temperaturas extremas
+28. Casos fronterizos
+28.1 Falla intermitente y daño físico leve
+Revisar si el daño fue previo o posterior al funcionamiento irregular.
+28.2 Producto con falla y señales de uso intensivo
+Determinar si el desgaste corresponde a uso normal o a un patrón fuera de cobertura.
+28.3 Producto con caja dañada pero funcionamiento correcto
+Puede corresponder a incidencia de transporte sin falla técnica.
+28.4 Producto reparado por tercero y luego fallado
+Generalmente excluido, salvo disposición local distinta.
+29. Preguntas frecuentes internas
+¿Se puede aprobar garantía sin ver el producto?
+Solo si la evidencia es concluyente y la política local lo permite.
+¿Qué pasa si el cliente no entrega el serial?
+Se puede evaluar por otras pruebas, pero podría requerirse información adicional.
+¿Se puede cambiar un producto por otro de distinta marca?
+Solo si el caso lo permite y existe autorización interna.
+¿Se puede cerrar como garantía un reclamo de retracto?
+No. Debe clasificarse correctamente desde el inicio.
+¿Qué hacer si la falla es dudosa?
+Escalar a revisión técnica o solicitar más evidencia.
+30. Flujo de escalamiento
+Escalar cuando:
+•  Hay discrepancia entre evidencia y uso reportado
+•  El producto pertenece a una categoría sensible
+•  La falla es repetitiva y no concluyente
+•  El cliente solicita revisión de segundo nivel
+• El resultado técnico contradice el primer análisis
+31. Registro técnico
+Cada caso debe documentarse con:
+• Número de orden
+• Número de serie
+• Tipo de falla
+• Evidencia recibida
+• Diagnóstico
+• Resolución
+• Estado final
+32. Comunicación al cliente
+La respuesta debe incluir:
+• Qué se observó
+• Qué cobertura aplica
+• Qué solución se aprobó o rechazó
+• Qué pasos siguen
+• Qué plazo debe esperar el cliente
+
+
+
+
+

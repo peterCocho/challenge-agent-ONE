@@ -1,0 +1,291 @@
+Preguntas Frecuentes sobre Métodos de Pago de
+BimBam Buy
+
+1. Propósito
+Este documento responde las preguntas más frecuentes sobre métodos de pago,
+validaciones, rechazos y reembolsos en BimBam Buy.
+Su objetivo es unificar criterios para el cliente y para el equipo interno, de forma que la
+experiencia de pago mantenga la misma lógica simple, clara y confiable del resto del paquete
+documental de BimBam Buy.
+2. Alcance
+Aplica a pagos realizados en la tienda online y a operaciones confirmadas por soporte dentro
+de los canales oficiales.
+Incluye consultas sobre:
+• Intentos fallidos
+• Pagos pendientes
+• Pagos confirmados
+• Reembolsos
+• Cuotas
+• Conciliación
+• Cobros duplicados
+• Relación con cancelaciones, envíos y garantías
+3. Métodos de pago disponibles
+BimBam Buy puede aceptar, según país y configuración operativa:
+• Tarjeta de crédito
+• Tarjeta de débito
+• Transferencia bancaria
+• Pago en efectivo en puntos habilitados
+• Billeteras digitales disponibles por país
+• Cuotas o financiamiento, cuando aplique
+La disponibilidad puede variar por país, categoría y monto.
+En ciertos mercados, algunos métodos pueden requerir validación adicional o no estar
+disponibles para determinadas compras, promociones o tipos de producto.
+4. Preguntas frecuentes
+4.1 ¿Qué hago si mi pago fue rechazado?
+Primero verifique:
+•  Fondos disponibles
+•  Fecha de vencimiento de la tarjeta
+•  Datos ingresados
+•  Autorización del banco o emisor
+Si todo está correcto, intente nuevamente o contacte a su entidad financiera. Si el problema
+persiste, soporte puede revisar el estado de la orden.
+4.2 ¿Por qué mi orden quedó pendiente de pago?
+Puede deberse a:
+•  Confirmación aún en proceso
+•  Validación antifraude
+•  Error de conexión
+•  Tiempo de expiración de la sesión
+•  Pago iniciado pero no finalizado
+4.3 ¿Cuándo se confirma un pago?
+El pago se considera confirmado cuando el sistema de BimBam Buy recibe la aprobación
+correspondiente y la orden pasa a estado de preparación.
+4.4 ¿Puedo pagar con más de un método?
+Solo si la configuración del país y del pedido lo permite. Si no aparece la opción en el checkout,
+no está habilitada para esa compra.
+4.5 ¿Puedo dividir el pago?
+En algunos países o campañas, sí. La disponibilidad depende del método y del monto.
+4.6 ¿Se puede pagar en moneda local?
+Sí, cuando la operación del país lo permite. BimBam Buy mostrará la moneda aplicable antes de
+confirmar la compra.
+4.7 ¿Qué pasa si me cobraron pero la orden no aparece?
+Puede existir una autorización temporal, una demora de conciliación o una orden pendiente de
+validación. En ese caso, soporte verificará:
+•  Número de transacción
+•  Fecha y hora
+•  Correo registrado
+•  Estado interno de la orden
+4.8 ¿Cuánto tarda un reembolso?
+El plazo habitual es de 5 a 10 días hábiles desde la aprobación, dependiendo del método de
+pago y del país.
+4.9 ¿El reembolso vuelve al mismo medio de pago?
+Sí, salvo imposibilidad técnica, regulatoria o de conciliación.
+4.10 ¿Qué sucede si pagué en cuotas?
+El reembolso puede procesarse sobre el total o sobre la parte afectada, pero la forma exacta de
+reverso dependerá del emisor y del esquema de cuotas.
+4.11 ¿Puedo cancelar un pago ya aprobado?
+La cancelación depende del estado de la orden. Si no ha sido despachada, puede iniciar
+revisión; si ya fue enviada, el caso se tratará conforme a postventa y logística.
+5. Seguridad de pago
+BimBam Buy aplica medidas de revisión para proteger al cliente y a la operación. Estas
+medidas pueden incluir:
+•  Verificación de titularidad
+•  Validación de datos
+•  Revisión antifraude
+•  Solicitud de confirmación adicional
+•  Comparación entre medio de pago, pedido y comportamiento transaccional
+6. Prevención de fraude
+Si un pago presenta señales de riesgo, la orden puede quedar en revisión hasta completar la
+validación. El cliente podrá ser contactado para confirmar información.
+Se consideran señales de revisión, entre otras:
+•  Inconsistencias en titularidad
+•  Datos de facturación no coincidentes
+•  Múltiples intentos fallidos
+•  Cambios bruscos de comportamiento de compra
+•  Riesgo operativo detectado por el sistema
+7. Facturación y comprobantes
+Según país, BimBam Buy puede emitir o facilitar comprobantes vinculados al pedido. El cliente
+debe revisar:
+•  Datos fiscales
+•  Número de orden
+•  Correo registrado
+•  Información tributaria aplicable
+Si existe diferencia entre la información del cliente y la registrada en el pedido, soporte podrá
+solicitar corrección o documentación adicional.
+8. Reembolsos y relación con postventa
+Los reembolsos por devoluciones, garantías o cancelaciones aprobadas se gestionan según la
+Política de Reembolsos y Devoluciones de BimBam Buy.
+Antes de procesar un reembolso, el área de pagos puede requerir confirmación de:
+•  Caso aprobado
+•  Monto final
+•  Medio original de pago
+•  Estado de captura o conciliación
+•  Restricción bancaria o regulatoria
+9. Cancelaciones antes del despacho
+Si la orden aún no ha sido despachada, el pago puede revertirse o quedar en proceso de
+reversión. Si ya salió a distribución, se aplicarán las reglas de postventa y logística.
+Cuando la cancelación se solicita a tiempo, el sistema puede evitar costos logísticos adicionales.
+Sin embargo, si el pedido ya inició preparación o despacho, pueden existir pasos posteriores
+según el estado real.
+10. Casos comunes
+10.1
+El cliente ingresa mal el código de seguridad de la tarjeta. La transacción es rechazada sin
+cobro efectivo.
+10.2
+El cliente paga exitosamente, pero la orden queda pendiente. Soporte revisa conciliación y
+confirma el estado.
+10.3
+El cliente solicita devolución por producto dañado. El reembolso se procesa solo cuando el
+caso haya sido aprobado por postventa.
+10.4
+Un cobro aparece en la cuenta del cliente, pero la orden no avanzó. Se revisa si fue una
+autorización temporal y se espera la liberación bancaria cuando corresponda.
+11. Tiempos orientativos por método
+Los tiempos pueden variar, pero de forma general:
+•  Tarjeta: validación inmediata o en pocas horas
+•  Transferencia: según confirmación bancaria
+•  Efectivo en puntos habilitados: según registro del pago
+•  Billeteras digitales: validación inmediata o corta demora de conciliación
+En todos los casos, la velocidad final depende también de validaciones internas y de la calidad de
+la información recibida.
+12. Cambios de método de pago
+Una orden ya pagada no puede cambiar de método de pago. Si el pago falló, el cliente deberá
+iniciar una nueva transacción.
+Si el sistema permite un ajuste posterior, este deberá ser revisado por el área de pagos y no
+puede asumirse como habilitado de manera general.
+13. Pagos duplicados
+Si el cliente detecta un cobro duplicado, soporte revisará si se trata de:
+•  Dos autorizaciones
+•  Una autorización y una captura
+•  Error de conciliación
+•  Reintento de pago
+La revisión debe considerar:
+•  Tiempo entre cargos
+•  Estado de la orden
+•  Monto exacto
+•  Medio utilizado
+•  Registro del procesador de pagos
+14. Recomendaciones para el cliente
+•  No cerrar la pantalla hasta finalizar el pago
+•  Verificar el correo y la moneda antes de pagar
+•  Guardar el comprobante
+•  Revisar el estado de la orden antes de repetir la transacción
+•  Evitar múltiples reintentos sin confirmación del estado
+•  Contactar a soporte con el dato exacto de la transacción cuando exista duda
+15. Relación con envíos y devoluciones
+Si una orden se cancela antes del despacho, puede no generarse costo de envío. Si el pedido
+ya fue entregado o despachado, los costos logísticos pueden considerarse en la resolución
+final.
+La relación con devoluciones se activa cuando el reembolso depende de un retorno físico, una
+incidencia logística o una decisión postventa.
+16. Relación con garantía
+Cuando un caso requiere reembolso por falla de producto, la decisión depende primero del
+Manual de Garantía de Productos de BimBam Buy.
+Si la garantía no aplica, el caso puede continuar bajo la política de devoluciones, siempre que
+exista elegibilidad por otra vía.
+17. Ejemplos de respuesta de soporte
+•  “El pago fue rechazado por el emisor. Le sugerimos intentar nuevamente o contactar a su
+banco.”
+•  “La orden figura pendiente de conciliación. Estamos revisando el estado y le confirmaremos
+cuanto antes.”
+•  “El reembolso ya fue aprobado y se encuentra en proceso de devolución al mismo medio de
+pago.”
+18. Escenarios por país
+La disponibilidad de métodos de pago puede cambiar según:
+•  Normativa local
+•  Integración bancaria
+•  Moneda
+•  Monto
+•  Riesgo operativo
+También puede variar por:
+•  Promociones vigentes
+•  Campañas temporales
+•  Reglas del adquirente
+•  Requisitos de autenticación adicionales
+19. Cierre
+BimBam Buy mantiene una lógica simple: si el pago fue exitoso, la orden avanza; si no, se
+informa claramente el motivo y la siguiente acción disponible.
+20. Validaciones previas y conciliación
+Antes de marcar un pago como confirmado, el sistema puede pasar por distintas validaciones
+internas. Esto ayuda a evitar errores de estado, órdenes duplicadas y cobros que no
+correspondan a una orden válida.
+21. Rechazos recurrentes
+Si el cliente presenta rechazos reiterados, soporte puede sugerir:
+•  Revisar con el banco
+•  Cambiar de medio de pago
+•  Confirmar datos personales
+•  Verificar límites diarios
+•  Intentar en otro momento si existe congestión del sistema
+22. Buenas prácticas para atención
+•  Responder con lenguaje simple
+•  No asumir fraude sin evidencia
+•  No prometer reversos sin verificar el estado real
+•  Confirmar siempre el ID de orden o transacción
+•  Diferenciar cobro, autorización y captura
+23. Tratamiento de incidencias financieras
+Las incidencias financieras deben registrarse con:
+•  Orden asociada
+•  Medio de pago
+•  Hora del evento
+•  Monto
+•  Estado observado
+•  Resultado de revisión
+Esto permite que pagos, soporte y postventa hablen el mismo idioma operativo.
+24. Criterios de escalamiento
+Escalar cuando:
+•  Hay cobro sin orden visible
+•  Existe duplicidad confirmada
+•  El reembolso excede el plazo habitual
+•  La conciliación no avanza
+•  Hay discrepancia entre el estado interno y el del proveedor de pago
+25. Notas de coordinación con otros documentos
+Este documento debe consultarse junto con:
+• La Política de Reembolsos y Devoluciones de BimBam Buy, para cancelaciones, reversos y
+devoluciones monetarias
+• La Guía de Tiempos y Costos de Envío de BimBam Buy, cuando el pago impacte el despacho
+• El Manual de Garantía de Productos de BimBam Buy, para casos donde el reembolso
+dependa de una falla cubierta
+26. Pagos y promociones
+Las promociones pueden modificar:
+• Método habilitado
+• Monto mínimo
+• Compatibilidad con cuotas
+• Elegibilidad por país
+• Reglas de reembolso parcial
+El sistema debe mostrar la condición promocional antes de confirmar la compra.
+27. Problemas frecuentes en checkout
+27.1 Error al cargar la página de pago
+Revisar conexión, navegador y estado del método elegido.
+27.2 Tarjeta no aceptada
+Verificar marca, país emisor y restricciones del banco.
+27.3 Transferencia no conciliada
+Confirmar comprobante, referencia y tiempo de procesamiento.
+27.4 Billetera digital sin respuesta
+Revisar sesión, autenticación y timeout.
+28. Confirmación manual de órdenes
+En casos excepcionales, soporte puede validar una orden manualmente si el pago existe pero
+no se reflejó correctamente. Esto requiere comprobante y verificación interna.
+29. Registro de incidencias
+Toda incidencia financiera debe quedar registrada con:
+• ID de orden
+• Medio de pago
+• Fecha
+• Monto
+• Motivo
+• Resultado
+• Próxima acción
+30. Preguntas frecuentes internas
+¿Se puede prometer reembolso inmediato?
+No. Debe usarse el plazo operativo vigente.
+¿Se puede cambiar el medio de pago de una orden ya aprobada?
+No como regla general.
+¿Qué hacer si el cliente envía un comprobante incompleto?
+Solicitar el dato mínimo faltante antes de avanzar.
+¿Se puede confirmar un pago solo con captura de pantalla?
+No necesariamente; debe verificarse contra el sistema o el procesador.
+¿Cómo responder a un cobro pendiente?
+Explicar que puede tratarse de autorización temporal o conciliación en curso.
+31. Recomendaciones al cliente
+• Guardar siempre el comprobante
+• No repetir el pago sin revisar el estado
+• Confirmar el correo correcto
+• Revisar promociones y cuotas antes de pagar
+• Contactar soporte con la transacción exacta
+32. Criterios de respuesta estandarizada
+Toda respuesta debe incluir, cuando aplique:
+• Estado actual
+• Causa probable
+• Acción recomendada
+• Plazo estimado
+• Condición de seguimiento
+
+

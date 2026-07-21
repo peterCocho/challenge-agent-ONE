@@ -1,0 +1,291 @@
+Programa de Afiliados de BimBam Buy
+
+Aplica a participantes aprobados por BimBam Buy que operen dentro de los lineamientos del
+programa y en los países habilitados de LATAM.
+Incluye:
+•  Promoción digital
+•  Contenidos editoriales
+•  Campañas con código o enlace
+•  Seguimiento de atribución
+•  Liquidación de comisiones
+•  Soporte por incidencias del programa
+3. Identidad del programa
+El programa está diseñado para mantener el espíritu de la marca:
+• Cercano
+• Claro
+• Divertido
+• Memorable
+• Ordenado
+Los afiliados de BimBam Buy deben comunicar la marca de forma consistente, sin promesas
+engañosas ni uso de información no autorizada.
+La identidad del programa busca que la audiencia perciba recomendaciones confiables, con
+mensajes simples y compatibles con la experiencia general de la marca.
+4. Elegibilidad
+Pueden postular:
+• Creadores de contenido
+• Sitios de cupones
+• Medios digitales
+• Comunidades de compras
+• Educadores o reseñadores de productos
+• Socios de contenido con audiencia en LATAM
+BimBam Buy podrá rechazar postulaciones que no se alineen con la marca, con la normativa o
+con la calidad operativa esperada.
+La evaluación puede considerar:
+• Tipo de audiencia
+• Calidad del contenido
+• Cumplimiento previo de políticas
+• Relevancia para el catálogo
+• Riesgo reputacional
+5. Funcionamiento general
+El afiliado recibe un enlace o código rastreable. Cuando una compra válida se origina desde
+ese canal, la venta puede generar comisión, siempre que:
+• El pedido sea confirmado
+• No exista anulación fraudulenta
+• El pago sea aprobado
+• La compra cumpla condiciones de atribución
+El funcionamiento general se apoya en seguimiento técnico, validación interna y reglas de
+conversión previamente definidas por BimBam Buy.
+6. Atribución de ventas
+La atribución depende de:
+•  Ventana de conversión
+•  Reglas de seguimiento
+•  Vigencia del enlace
+•  Identificador del afiliado
+•  Validación interna del pedido
+Si existe conflicto de atribución, BimBam Buy revisará la evidencia disponible y aplicará la regla
+operativa vigente.
+También pueden influir:
+•  Clics previos
+•  Reasignación de fuente
+•  Vencimiento de la sesión
+•  Reglas de último clic o regla equivalente, según configuración interna
+7. Comisiones
+Las comisiones pueden variar según:
+•  Categoría de producto
+•  País
+•  Campaña
+•  Margen
+•  Tipo de afiliado
+BimBam Buy puede definir porcentajes diferentes para ciertas líneas o promociones.
+La liquidación puede considerar:
+•  Ventas efectivamente validadas
+•  Cancelaciones
+•  Devoluciones
+•  Reembolsos
+•  Ajustes operativos
+8. Pagos a afiliados
+Los pagos a afiliados se procesan según umbral mínimo, calendario de cierre y validación de la
+cuenta del afiliado.
+Pueden requerirse:
+•  Datos fiscales
+•  Cuenta de cobro
+•  Información bancaria o de pago
+•  Confirmación de identidad
+Si existen inconsistencias en la cuenta o falta documentación, el pago puede quedar en espera
+hasta completar la validación.
+9. Retenciones y ajustes
+BimBam Buy podrá retener, corregir o revertir comisiones en casos de:
+•  Cancelación de pedidos
+•  Devoluciones aprobadas
+•  Reembolsos
+•  Fraude
+•  Autocompras no permitidas
+•  Incumplimiento de políticas del programa
+También pueden aplicarse ajustes por:
+•  Error de atribución
+•  Conversión inválida
+•  Tráfico de baja calidad
+•  Reclamos asociados a campañas mal ejecutadas
+10. Relación con devoluciones y reembolsos
+Si un pedido referido por un afiliado termina en devolución o reembolso, la comisión podrá
+ajustarse según la política interna de BimBam Buy y la elegibilidad final de la venta.
+Esto vincula directamente al programa con la Política de Reembolsos y Devoluciones, la Guía de
+Tiempos y Costos de Envío y las reglas de postventa.
+11. Material permitido
+Los afiliados pueden usar:
+•  Enlaces aprobados
+•  Banners autorizados
+•  Creatividades entregadas por BimBam Buy
+•  Mensajes consistentes con la marca
+También pueden usar textos propios, siempre que sean veraces, actualizados y no contradigan
+lineamientos oficiales.
+12. Material no permitido
+No se permite:
+•  Afirmar precios o beneficios no vigentes
+• Prometer garantías inexistentes
+• Simular ser empleado de BimBam Buy
+• Usar marca o identidad visual fuera de lineamientos
+• Hacer publicidad engañosa
+• Incentivar compras fraudulentas o autogeneradas
+Tampoco se permite:
+• Alterar enlaces de seguimiento
+• Ocultar la naturaleza promocional de la recomendación cuando la normativa exija
+transparencia
+• Difundir información confidencial del programa
+13. Comunicación de marca
+El tono de BimBam Buy es:
+• Amable
+• Dinámico
+• Claro
+• Cercano
+• Con un toque divertido, sin perder profesionalismo
+La comunicación debe evitar exageraciones, comparaciones engañosas o promesas absolutas
+sobre disponibilidad, envío, garantía o precio.
+14. Soporte a afiliados
+El afiliado puede contactar al equipo de soporte del programa para:
+• Validar enlaces
+• Revisar atribuciones
+• Consultar pagos
+• Resolver incidencias de tracking
+• Solicitar materiales oficiales
+El soporte debe ayudar con criterios claros y mantener registro de cada consulta importante.
+15. Información requerida para soporte
+Para atender un caso, pueden solicitarse:
+• ID de afiliado
+• Fecha de la campaña
+• URL del contenido
+• Evidencia de tráfico
+• Número de pedido
+• Correo de contacto
+En casos de disputa, también puede requerirse:
+• Captura del contenido publicado
+• Fecha y hora de publicación
+• Parámetros del enlace
+• Historial de campaña
+16. Ejemplos operativos
+Ejemplo 1
+Un creador publica un enlace aprobado y un cliente compra dentro de la ventana de atribución.
+La venta genera comisión.
+Ejemplo 2
+Un pedido atribuido al afiliado es devuelto por retracto. La comisión puede reversarse.
+Ejemplo 3
+El afiliado usa claims no autorizados sobre garantía. BimBam Buy puede suspender
+temporalmente la cuenta y solicitar corrección.
+Ejemplo 4
+Una campaña genera clics válidos, pero el pedido no se confirma. No corresponde comisión
+hasta que la venta quede aprobada.
+17. Tiempos del programa
+• Aprobación de postulantes: variable
+• Cierre de periodo de comisiones: según calendario interno
+• Pago de comisiones: según fecha de corte y validación
+Los tiempos pueden extenderse cuando exista revisión de fraude, controversia de atribución o
+documentación pendiente.
+18. Buenas prácticas para afiliados
+• Promocionar solo productos vigentes
+• Usar precios verificados
+• Mantener transparencia con la audiencia
+• Respetar reglas locales de publicidad
+• Responder dudas con enlaces oficiales
+También se recomienda:
+• Revisar la vigencia de la campaña antes de publicar
+• Evitar afirmaciones sobre stock no confirmado
+• Mantener coherencia entre el contenido y la página de destino
+19. Suspensión o baja
+BimBam Buy podrá suspender o dar de baja una cuenta de afiliado por:
+• Fraude
+• Tráfico inválido
+• Incumplimiento de lineamientos
+• Uso indebido de marca
+• Manipulación de conversiones
+• Reincidencia en conductas no permitidas
+La medida puede ser temporal o definitiva, dependiendo de la gravedad y de la evidencia
+disponible.
+20. Gestión de campañas
+Cada campaña puede tener condiciones específicas sobre:
+• Vigencia
+• Categorías participantes
+• Países habilitados
+• Comisiones aplicables
+• Material aprobado
+• Restricciones de difusión
+El afiliado debe revisar siempre las condiciones de cada campaña antes de publicar.
+21. Reglas de uso de enlaces y códigos
+Los enlaces y códigos proporcionados por BimBam Buy son parte del sistema de atribución y
+deben utilizarse de forma exacta.
+No se debe:
+• Modificar parámetros
+• Reutilizar códigos vencidos
+• Compartir códigos restringidos fuera del público permitido
+• Atribuir ventas sin base válida
+22. Control de calidad y cumplimiento
+BimBam Buy puede realizar revisiones para asegurar que el programa funcione correctamente.
+Esto puede incluir:
+• Auditoría de tráfico
+• Revisión de contenidos
+• Validación de conversiones
+• Análisis de patrones anómalos
+• Verificación de cumplimiento de marca
+23. Relación con otros documentos
+El Programa de Afiliados se relaciona con:
+• Pagos, por la liquidación de comisiones
+• Reembolsos y devoluciones, por ajustes de comisión
+• Envíos, por la experiencia que el afiliado comunica sobre la compra
+• Garantía, por los mensajes que no deben prometer cobertura incorrecta
+24. Cierre
+El Programa de Afiliados de BimBam Buy busca crecer con socios que aporten valor real a la
+audiencia, con reglas simples, medición clara y una experiencia coherente con toda la marca.
+25. Notas de coordinación con otros documentos
+Este programa debe interpretarse en conjunto con:
+• La Política de Reembolsos y Devoluciones de BimBam Buy, para reversos de comisión por
+cancelaciones o devoluciones
+• La Guía de Tiempos y Costos de Envío de BimBam Buy, para no comunicar plazos logísticos
+no confirmados
+• Las Preguntas Frecuentes sobre Métodos de Pago de BimBam Buy, cuando una promoción
+dependa de un medio de pago específico
+• El Manual de Garantía de Productos de BimBam Buy, para evitar promesas de cobertura no
+autorizadas
+26. Escenarios de atribución
+26.1 Compra dentro de la ventana válida
+Se atribuye si el pedido cumple reglas de conversión.
+26.2 Compra fuera de ventana
+No se atribuye salvo excepción autorizada.
+26.3 Varios clics previos
+Se aplica la regla operativa vigente del programa.
+26.4 Sesión interrumpida
+Se revisa si el enlace y la cookie o evento de tracking se conservaron correctamente.
+27. Casos de incumplimiento
+27.1 Publicar precios inventados
+Se considera incumplimiento de comunicación.
+27.2 Prometer envíos no confirmados
+Se considera incumplimiento de marca.
+27.3 Manipular enlaces
+Puede generar pérdida de atribución o suspensión.
+27.4 Usar marca sin autorización
+Puede requerir baja inmediata de la cuenta.
+28. Preguntas frecuentes internas
+¿Se puede aprobar comisión si hubo reembolso parcial?
+Depende del monto final y de la regla de ajuste.
+¿Qué hacer si el afiliado reclama una venta no atribuida?
+Revisar evidencia de tráfico, parámetros y tiempo de conversión.
+¿Se puede reconocer una venta manualmente?
+Solo si existe respaldo suficiente y la política vigente lo permite.
+¿Qué hacer si el afiliado incumple una sola vez?
+Se evalúa la gravedad antes de decidir advertencia, suspensión o baja.
+29. Registro y auditoría
+Cada caso relevante debe conservar:
+• ID del afiliado
+• Fecha de la incidencia
+• Tipo de campaña
+• Prueba de atribución
+• Decisión tomada
+• Responsable de revisión
+30. Recomendaciones de contenido
+• Crear contenido honesto y útil
+• Mostrar beneficios reales
+• Evitar claims absolutos
+• Mantener consistencia visual
+• Enlazar siempre a páginas oficiales
+31. Excepciones operativas
+En campañas especiales o lanzamientos, BimBam Buy puede definir reglas distintas de
+atribución, comisión o materiales permitidos. Estas excepciones deben comunicarse antes de
+la publicación.
+32. Seguimiento de campañas
+El programa puede monitorear:
+• Tasa de clics
+• Conversión
+• Reversos por devolución
+• Calidad del tráfico
+• Cumplimiento de mensajes
+El seguimiento busca mantener una relación sana entre marca, afiliado y audiencia.
+
+
