@@ -1,0 +1,5 @@
+streamlit==1.36.0
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-google-genai==1.0.6
+faiss-cpu==1.14.3
