@@ -1,162 +1,222 @@
 import os
 import time
+from operator import itemgetter
 
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_cohere import CohereEmbeddings, ChatCohere
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
+from langchain_core.messages import HumanMessage, AIMessage
 
 # Load environment variables
 load_dotenv()
 
+
 @st.cache_resource
-def initialize_vector_store(directory_path: str):
-    # Fetch the Cohere API key
+def initialize_vector_store():
+    # Fetch configurations
     cohere_api_key = os.getenv("COHERE_API_KEY")
     if not cohere_api_key:
         raise ValueError("COHERE_API_KEY environment variable is missing.")
 
-    # Initialize Cohere's embedding model 
+    # Initialize embeddings
     embeddings = CohereEmbeddings(
         model="embed-multilingual-v3.0",
         cohere_api_key=cohere_api_key
     )
-    
-    # Define local path for FAISS index storage
+
     index_path = "./faiss_index"
-    
-    # Check if the index already exists on disk
-    if os.path.exists(index_path):
-        print("Loading existing FAISS index from disk...")
-        # Load index bypassing the serialization safety warning
-        return FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
 
-    # Verify if the directory exists before attempting to load
-    if not os.path.exists(directory_path):
-        raise FileNotFoundError(f"The directory {directory_path} was not found.")
+    # Strictly load the pre-built index. Fail fast if it does not exist.
+    if not os.path.exists(index_path):
+        raise RuntimeError(
+            f"Critical Error: FAISS index not found at {index_path}. "
+            "The vector database must be built and deployed alongside the application."
+        )
 
-    # Use DirectoryLoader to load all .txt files
-    loader = DirectoryLoader(
-        directory_path,
-        glob="**/*.txt",
-        loader_cls=TextLoader,
-        loader_kwargs={"encoding": "utf-8"}
+    # Load the static index into memory
+    vector_store = FAISS.load_local(
+        index_path,
+        embeddings,
+        allow_dangerous_deserialization=True
     )
-    docs = loader.load()
 
-    if not docs:
-        raise ValueError("No documents were loaded. Check the directory content.")
-
-    # Split text into manageable chunks
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=100
-    )
-    splits = text_splitter.split_documents(docs)
-
-    vectorstore = None
-    batch_size = 5 
-
-    print(f"Total chunks to process: {len(splits)}")
-
-    for i in range(0, len(splits), batch_size):
-        batch = splits[i:i + batch_size]
-        print(f"Embedding batch {(i // batch_size) + 1}...")
-        
-        try:
-            if vectorstore is None:
-                vectorstore = FAISS.from_documents(batch, embeddings)
-            else:
-                vectorstore.add_documents(batch)
-            
-            time.sleep(5) 
-            
-        except Exception as e:
-            raise RuntimeError(f"API collapse at batch {(i // batch_size) + 1}: {e}")
-
-    # Save the finalized index to disk
-    print("Saving new FAISS index to disk...")
-    vectorstore.save_local(index_path)
-
-    return vectorstore
+    return vector_store
 
 
 @st.cache_resource
 def setup_rag_chain(_vectorstore):
-    # Fetch configurations from environment variables
     cohere_api_key = os.getenv("COHERE_API_KEY")
-    if not cohere_api_key:
-        raise ValueError("COHERE_API_KEY environment variable is missing.")
-        
     model_name = os.getenv("COHERE_MODEL_NAME")
-    if not model_name:
-        raise ValueError("COHERE_MODEL_NAME environment variable is missing in .env file.")
 
-    # Initialize the LLM dynamically
-    # Temperature 0 is strictly required to prevent hallucinations
+    if not model_name:
+        raise ValueError("COHERE_MODEL_NAME is missing in .env")
+
+    # Initialize LLM
     llm = ChatCohere(
         model=model_name,
-        temperature=0,
+        temperature=0.1,
         cohere_api_key=cohere_api_key
     )
 
-    # Define strict boundaries for the agent
-    system_prompt = (
-        "You are a strict customer service assistant for BimBam Buy. "
-        "Use ONLY the following pieces of retrieved context to answer the user's question. "
-        "If you do not know the answer based on the context, say exactly: "
-        "'Lo siento, no tengo información sobre esa política en mis manuales actuales.' "
-        "Do not invent policies, shipping costs, or return timeframes. "
-        "\n\nContext:\n{context}"
+    # Configure the retriever with a calibrated relevance threshold
+    retriever = _vectorstore.as_retriever(
+        search_type="similarity_score_threshold",
+        search_kwargs={"score_threshold": 0.2, "k": 4}
     )
 
-    prompt = ChatPromptTemplate.from_messages([
-        ("system", system_prompt),
+    # 1. Chain to reformulate the question with history context
+    contextualize_q_system_prompt = (
+        "Given a chat history and the latest user question "
+        "which might reference context in the chat history, "
+        "formulate a standalone question which can be understood "
+        "without the chat history. Do NOT answer the question, "
+        "just reformulate it if needed and otherwise return it as is."
+    )
+
+    contextualize_q_prompt = ChatPromptTemplate.from_messages([
+        ("system", contextualize_q_system_prompt),
+        MessagesPlaceholder("chat_history"),
         ("human", "{input}"),
     ])
 
-    # Transform the vector store into a retriever
-    retriever = _vectorstore.as_retriever(
-        search_type="similarity",
-        search_kwargs={"k": 3}
+    # Sub-chain that outputs the rewritten string
+    history_aware_retriever_chain = contextualize_q_prompt | llm | StrOutputParser()
+
+    # 2. Main Q&A Prompt
+    system_prompt = (
+        "Eres un agente de soporte técnico para BimBam Buy. "
+        "Tu única tarea es responder consultas basándote en la información proporcionada.\n\n"
+        "<CONTEXTO_DISPONIBLE>\n"
+        "{context}\n"
+        "</CONTEXTO_DISPONIBLE>\n\n"
+        "DIRECTRICES DE OPERACIÓN:\n"
+        "1. Tono: Dirígete al usuario en segunda persona formal ('usted').\n"
+        "2. Adaptación: Explica las políticas de forma natural. Omite referencias estructurales como 'sección 1' o 'artículo 3'.\n"
+        "3. Precisión Terminológica: Utiliza estrictamente el vocabulario presente en el contexto. Tienes prohibido asumir sinónimos comerciales o prometer exenciones.\n"
+        "4. Inmersión de Rol: NUNCA uses frases como 'según el contexto proporcionado', 'en mis documentos', o 'el texto dice'. Habla directamente en nombre de las políticas de BimBam Buy.\n"
+        "5. Acción por defecto (Contexto Vacío): Si el bloque <CONTEXTO_DISPONIBLE> está vacío, carece de información relevante, o el tema no se menciona en absoluto, es MANDATORIO que generes exactamente esta cadena de texto para evitar errores de sistema: "
+        "'Lo siento, no tengo acceso a esa información específica en mis manuales actuales.'\n"
+        "Bajo ninguna circunstancia debes dejar la respuesta en blanco ni intentar deducir información externa."
     )
 
-    # Helper function to format retrieved documents
+    qa_prompt = ChatPromptTemplate.from_messages([
+        ("system", system_prompt),
+        MessagesPlaceholder("chat_history"),
+        ("human", "{input}"),
+    ])
+
     def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
-    # Build the chain using modern LCEL syntax
+    # 3. Assemble complete RAG chain using pure LCEL
+    # The input passes through the reformulation chain, then the retriever, then formatting
     rag_chain = (
-        {"context": retriever | format_docs, "input": RunnablePassthrough()}
-        | prompt
-        | llm
-        | StrOutputParser()
+            RunnablePassthrough.assign(
+                context=history_aware_retriever_chain | retriever | format_docs
+            )
+            | qa_prompt
+            | llm
+            | StrOutputParser()
     )
 
     return rag_chain
 
 
-# Temporary execution block to verify the RAG chain
-if __name__ == "__main__":
-    try:
-        # 1. Load the vector store
-        v_store = initialize_vector_store("./data")
-        
-        # 2. Setup the RAG chain
-        rag_chain = setup_rag_chain(v_store)
-        
-        # 3. Test a query directly
-        test_question = "¿Cuál es el tiempo máximo para hacer una devolución?"
-        print(f"\nPregunta: {test_question}")
-        
-        # Invoke returns a string directly due to StrOutputParser
-        response = rag_chain.invoke(test_question)
-        print(f"Respuesta del Agente: {response}")
-        
-    except Exception as e:
-        print(f"Error executing RAG chain: {e}")
+
+# --- User Interface & State Management ---
+col1, col2, col3 = st.columns([1,2,1])
+
+with col2:
+    st.image("robot.png", width=170)
+
+st.markdown("""
+<div style="
+background: linear-gradient(90deg,#4F46E5,#2563EB);
+padding:20px;
+border-radius:15px;
+color:white;
+text-align:center;
+margin-bottom:20px;
+">
+<h2>BimBam Buy Support Agent</h2>
+<p>Pregúntame sobre productos, políticas, envíos, devoluciones y mucho más.</p>
+</div>
+""", unsafe_allow_html=True)
+
+# Initialize chat history early
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+if len(st.session_state.messages) == 0:
+
+    st.info("""
+👋 ¡Bienvenido!
+
+Soy el asistente virtual de **BimBam Buy**.
+
+Puedo ayudarte con:
+
+- 📦 Productos
+- 🚚 Envíos
+- 💳 Pagos
+- 🔄 Devoluciones
+- ❓ Preguntas frecuentes
+
+Escribe tu consulta para comenzar.
+""")
+
+# Render existing messages IMMEDIATELY to prevent visual clearing
+for message in st.session_state.messages:
+
+    avatar = "🤖" if message["role"] == "assistant" else "🧑"
+
+    with st.chat_message(message["role"], avatar=avatar):
+        st.markdown(message["content"])
+
+# Load cached resources AFTER rendering the UI
+try:
+    v_store = initialize_vector_store()
+    rag_chain = setup_rag_chain(v_store)
+except Exception as e:
+    st.error(f"System initialization error: {e}")
+    st.stop()
+
+# Capture user input
+if user_query := st.chat_input("¿En qué puedo ayudarte hoy?"):
+
+    # Append user message to state
+    st.session_state.messages.append({"role": "user", "content": user_query})
+
+    with st.chat_message("user"):
+        st.markdown(user_query)
+
+    with st.chat_message("assistant"):
+        with st.spinner("🧠 Analizando la información..."):
+            try:
+                # Extract history and apply pruning
+                langchain_history = []
+                for msg in st.session_state.messages[-7:-1]:
+                    if msg["role"] == "user":
+                        langchain_history.append(HumanMessage(content=msg["content"]))
+                    elif msg["role"] == "assistant":
+                        langchain_history.append(AIMessage(content=msg["content"]))
+
+                # Execute pipeline
+                response = rag_chain.invoke({
+                    "input": user_query,
+                    "chat_history": langchain_history
+                })
+
+                st.markdown(response)
+
+                # Persist assistant response only on successful API execution
+                st.session_state.messages.append({"role": "assistant", "content": response})
+
+            except Exception as e:
+                # Rollback state to maintain alternating role integrity for Cohere API
+                st.session_state.messages.pop()
+                st.error(f"System error: {e}. State rolled back to prevent history corruption.")

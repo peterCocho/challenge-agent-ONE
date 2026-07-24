@@ -398,3 +398,18 @@ Toda excepción aprobada fuera del flujo estándar debe incluir:
 • Resolución aplicada
 • Vigencia de la autorización
 
+# Apéndice A: Clasificación de Categorías Restringidas y Casos Especiales
+
+A.1 Restricciones de Higiene y Salud
+Los siguientes artículos no son elegibles para cambio, devolución por retracto, ni garantía si el empaque original ha sido abierto, los sellos alterados o el producto presenta señales de uso, debido a estrictas normativas de salubridad:
+- Ropa interior, lencería y calcetines.
+- Trajes de baño.
+- Fajas y prendas de control.
+- Audífonos in-ear (intraurales).
+- Artículos de cuidado personal, cosméticos y perfumería.
+
+A.2 Restricciones Logísticas
+Los siguientes artículos están excluidos de las modalidades de Envío Express debido a sus dimensiones, peso o requerimientos de manejo especial:
+- Línea blanca pesada (refrigeradores, lavadoras, estufas).
+- Televisores mayores a 55 pulgadas.
+- Colchones y muebles armables de gran volumen.
